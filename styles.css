@@ -1,8 +1,8 @@
 body{
-    background-color: powderblue
-
+    background-color: lightskyblue;
+    font-size: 40px;
 }
-p{
-    padding-top: 50px;
-    padding-bottom: 50px;
+h1{ 
+    color: navy
+
 }
