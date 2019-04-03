@@ -2,7 +2,13 @@ body{
     background-color: lightskyblue;
     font-size: 40px;
 }
+p{
+   margin: 10px 100px;
+}
+p{
+    padding: 10px 20px;
+}
 h1{ 
-    color: navy
-
+    color: navy;
+    font-size: 80px;
 }
