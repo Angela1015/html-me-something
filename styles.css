@@ -3,10 +3,11 @@ body{
     font-size: 40px;
 }
 article{
-   margin: 10px 50px;
+   margin: 100px 100px;
 }
-ul.standout{
-    font-family: 'Times New Roman', Times, serif;
+.standout{
+    font-family: 'Franklin Gothic Medium';
+    
     padding: 20px 20px;
 }
 h1{ 
