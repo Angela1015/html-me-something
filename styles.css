@@ -10,6 +10,9 @@ article{
     
     padding: 20px 20px;
 }
+#myHeader {
+    text-align: center;
+}
 h1{ 
     color: navy;
     font-size: 60px;
